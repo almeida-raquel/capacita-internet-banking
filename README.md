@@ -17,3 +17,9 @@ Este projeto foi criado com o intuito de aplicar e consolidar conhecimentos adqu
 
 - **Frontend:** HTML e CSS.
 
+## Equipe
+
+- Raquel Freitas de Almeida
+- Pedro Lucas Carvalho Fernandes
+- Steici Aleixo Sousa
+
